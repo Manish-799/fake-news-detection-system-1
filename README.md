@@ -441,9 +441,10 @@ fake-news-detection-system/
 │   └── package-lock.json
 │
 ├── screenshots/
-│   ├── analyzer.png
-│   ├── prediction.png
-│   └── explanation.png
+|   ├── analyzer.png
+|   ├── model_prediction.png
+|   ├── model_analysis_information.png
+|   └── model_info_and_local_history.png
 │
 ├── .gitignore
 ├── README.md
